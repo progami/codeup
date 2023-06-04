@@ -7,16 +7,16 @@ tags: ["first"]
 author: "Jarrar"
 # author: ["Me", "You"] # multiple authors
 showToc: true
-TocOpen: false
+TocOpen: true
 draft: false
 hidemeta: false
 comments: false
-description: "Brief Guide to AWS SAA C03"
+description: "Brief Guide to the AWS SAA C03"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
-hideSummary: false
+hideSummary: true
 searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
@@ -25,7 +25,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "cert.png" # image path/url
+    image: "/cert.png" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
