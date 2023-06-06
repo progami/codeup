@@ -1,2 +1,2 @@
 ## Create post
-hugo new --kind post blog/my-second-post.md
+hugo new --kind post content/my-second-post.md

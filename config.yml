@@ -17,7 +17,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: CodeUp
-  description: "ExampleSite description"
+  description: "CodeUp by Jarrar"
   keywords: [Blog, Portfolio, PaperMod]
   author: Jarrar
   # author: ["Me", "You"] # multiple authors
