@@ -79,11 +79,12 @@ params:
   socialIcons:
     - name: twitter
       url: "https://twitter.com/jarrar_jerry"
-    - name: Instagram
-      url: "https://www.instagram.com/jarrar100/"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/jarrar-amjad/"
     - name: github
       url: "https://github.com/progami"
-
+    - name: Instagram
+      url: "https://www.instagram.com/jarrar100/"
   analytics:
     google:
       SiteVerificationTag: "XYZabc"
